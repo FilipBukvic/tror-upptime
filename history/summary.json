@@ -4,7 +4,7 @@
     "url": "https://tror.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/tror.eu.ico",
     "slug": "tror-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "96.92%",
     "uptimeWeek": "99.56%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.83%",
     "time": 731,
     "timeDay": 1406,
-    "timeWeek": 847,
+    "timeWeek": 862,
     "timeMonth": 731,
     "timeYear": 731,
     "dailyMinutesDown": {
