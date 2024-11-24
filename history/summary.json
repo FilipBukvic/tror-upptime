@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tror.eu.ico",
     "slug": "tror-eu",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.83%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 725,
     "timeDay": 1119,
     "timeWeek": 827,
     "timeMonth": 725,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2024-11-23": 53,
+      "2024-11-23": 44,
       "2024-10-28": 23
     }
   }
