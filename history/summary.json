@@ -4,17 +4,17 @@
     "url": "https://tror.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/tror.eu.ico",
     "slug": "tror-eu",
-    "status": "up",
-    "uptime": "94.21%",
-    "uptimeDay": "0.83%",
+    "status": "down",
+    "uptime": "94.23%",
+    "uptimeDay": "1.44%",
     "uptimeWeek": "16.20%",
-    "uptimeMonth": "71.57%",
-    "uptimeYear": "94.21%",
-    "time": 429,
-    "timeDay": 236,
-    "timeWeek": 241,
+    "uptimeMonth": "71.64%",
+    "uptimeYear": "94.23%",
+    "time": 428,
+    "timeDay": 202,
+    "timeWeek": 239,
     "timeMonth": 241,
-    "timeYear": 429,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2025-03-26": 688,
       "2025-03-25": 1428,
@@ -27,7 +27,7 @@
       "2025-03-18": 1082,
       "2025-03-17": 1071,
       "2025-03-16": 1047,
-      "2025-03-15": 412
+      "2025-03-15": 382
     }
   }
 ]
